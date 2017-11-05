@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Updating the Blog, Searching for Motivation"
