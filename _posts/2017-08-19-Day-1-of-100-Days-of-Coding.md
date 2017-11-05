@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matt Roberts, Coding Explorer, Starts 100 Days of Code
+title: "Matt Roberts, Coding Explorer, Starts 100 Days of Code"
 date: 2017-08-19
 ---
 
