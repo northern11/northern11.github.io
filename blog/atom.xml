@@ -10,9 +10,9 @@ layout: feed
     <updated>{{ site.time | date_to_xmlschema }}</updated>
     <id>http://northern11.github.io/blog</id>
     <author>
-            <name>Matt Roberts<name>
+            <name>Matt Roberts</name>
             <email>robertsak@gmail.com</email>
-    <author>
+    </author>
     
     {% for post in site.posts %}
             <entry>
@@ -24,4 +24,4 @@ layout: feed
            </entry>
      {% endfor %}
      
- 
+</feed>
